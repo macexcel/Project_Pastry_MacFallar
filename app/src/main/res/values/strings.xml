@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project Pastry</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="brown">#D2B48C</color>
+    <color name="black">#000000</color>
+
+    <string name="title">Project Pastry</string>
+    <string name="subtitle">Choose you sweet Dessert</string>
+    <string name="title_activity_pastries">Pastries</string>
+    <string name="title_activity_beverages">Beverages</string>
+</resources>
